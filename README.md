@@ -1,7 +1,8 @@
 # Linux Kernel v0.11
 Collection of something related to Linux Kernel v0.11 from crowd wisdom, partly from myself. The major reference site is
 
-⋅⋅* http://oldlinux.org/
+... http://oldlinux.org/
+
 
 ### Linux-0.11_source.pdf 
 It contains the source code of Linux Kernel v0.11 from http://oldlinux.org/Linux.old/bochs/linux-0.11-devel-040329.zip
