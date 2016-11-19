@@ -1,5 +1,5 @@
-# Linux Kernel v0.11
-Collection of something related to Linux Kernel v0.11 from crowd wisdom, partly from myself. The major reference site is
+# Linux Kernel 0.11
+Collection of something related to Linux Kernel 0.11 from crowd wisdom, partly from myself. The major reference site is
 
 * http://oldlinux.org/
 * http://www.examw.com/linux/all/200572/    /* Linux 0.11 boot strap flow in Simplified Chinese */
