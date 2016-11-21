@@ -17,7 +17,7 @@ I use Ubuntu as host computer to run Bochs, so I can update and compile the Linu
 
 ## Preparation on host computer (Ubuntu)
 - download & install Bochs
-- download linux_devel_040329.zip (only 3 files are needed: bochsrc-hd.bxrc; bootimage-0.11; hdc-0.11.img)
+- download & unzip linux_devel_040329.zip (only 3 files are required: bochsrc-hd.bxrc; bootimage-0.11; hdc-0.11.img)
 
 ## Steps
 1. Update bochsrc-hd.bxrc with the latest syntax requirements by Bochs 2.6.8 (which changes quite a lot compared to the original file of bochsrc.bxrc)
