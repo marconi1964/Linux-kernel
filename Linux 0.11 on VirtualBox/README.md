@@ -8,9 +8,9 @@ The purpose is to compile the Linux 0.11 source code and get it run under Virtua
 Ubuntu 14.04
 
 ## Prerequisite
-Bochs 2.6.8 - http://bochs.sourceforge.net
-linux_devel_040329.zip - Linux 0.11 source code from http://www.oldlinux.org
-VirtualBox 5.0.16 - https://www.virtualbox.org
+- Bochs 2.6.8 - http://bochs.sourceforge.net
+- linux_devel_040329.zip - Linux 0.11 source code from http://www.oldlinux.org
+- VirtualBox 5.0.16 - https://www.virtualbox.org
 
 ## Preparation on host computer (Ubuntu)
 - download & install Bochs
