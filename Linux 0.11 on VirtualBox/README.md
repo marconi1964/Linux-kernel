@@ -54,7 +54,7 @@ I use Ubuntu as host computer to run Bochs, so I can modify and compile the Linu
 
 ## Steps
 1. Launch VirtualBox
-2. ![image](https://www.dropbox.com/s/c7k4ipt9njar8m0/VB_linux_0_11_01.png?dl=0)
+2. ![image](https://www.dropbox.com/s/qbr9d1wlwbl2i3j/VB_linux_0_11_01.jpg?dl=0)
 3. 
 
 
