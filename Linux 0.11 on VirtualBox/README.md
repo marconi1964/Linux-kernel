@@ -38,7 +38,7 @@ In this section, I use '$' as prompt when you are at host, and '#' as prompt whe
     `# make
 `
 
-    (Several Makefiles need to be updated if you not using the root.img here, but using the original hdc-0.11.img. [http://11210601.blog.51cto.com/11200601/1744524](http://11210601.blog.51cto.com/11200601/1744524)
+    (Several Makefiles need to be updated if you not using the root.img here, but using the original hdc-0.11.img. Check reference [http://11210601.blog.51cto.com/11200601/1744524](http://11210601.blog.51cto.com/11200601/1744524)
 )
 5. "Image" file is generated after compilation. Now write it back to floppy of Bochs so we will be able to read it from host computer
 
@@ -61,7 +61,7 @@ In this section, I use '$' as prompt when you are at host, and '#' as prompt whe
 
 
 ## Steps
-1. Launch VirtualBox (I use MacBook Pro, with OS X El Captain)
+1. Launch VirtualBox
 2. Select - New. Choose whatever name you like. Select "Type - Linux", and "Version - Linux 2.2"
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-1.png)
 3. 64MB memory is enough as minimum requirement. You can try with more memory. 
