@@ -60,11 +60,11 @@ I use Ubuntu as host computer to run Bochs, so I can modify and compile the Linu
 
 ## Steps
 1. Launch VirtualBox
-2. Select - New                                                       
+2. Select - New                                                       .
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-1.png)
-3. 64MB memory is enough                                                
+3. 64MB memory is enough                                                .
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-2.png)
-4. Select boot.vdi we created                                                
+4. Select boot.vdi we created                                            .    
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-3.png)
 5. Linux 0.11 on VirtualBox is created. Don't launch it yet. We need to add Floppy drive as the boot device first. Click the "Storage" 
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-4.png)
