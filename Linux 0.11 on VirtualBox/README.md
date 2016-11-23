@@ -59,8 +59,7 @@ I use Ubuntu as host computer to run Bochs, to modify and compile the Linux 0.11
 
 
 ## Steps
-1. Launch VirtualBox
-
+1. Launch VirtualBox (I use MacBook Pro, with OS X El Captain)
 2. Select - New
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-1.png)
 3. 64MB memory is enough
