@@ -8,7 +8,7 @@ I use Ubuntu as host computer to run Bochs, to modify and compile the Linux 0.11
 
 ## Environment
 - **Ubuntu 14.04** (running Bochs with Linux 0.11 & source code)
-- **MacOS El Captain** (running VirtualBox with Linux 0.11 & source code)
+- **MacOS X El Captain** (running VirtualBox with Linux 0.11 & source code)
 
 ## Prerequisite
 - **Bochs 2.6.8** - [http://bochs.sourceforge.net](http://bochs.sourceforge.net)
