@@ -50,11 +50,19 @@ I use Ubuntu as host computer to run Bochs, so I can modify and compile the Linu
 - Get 2 files ready: 
 
     - **boot.img** from previous step
-    - **root.img** (or **hdc-0.11.img**) from **linux_devel_040329.zip**
+    - **root.img** (or **hdc-0.11.img** from **linux_devel_040329.zip**)
+
+- Convert the root.img to VirtualBox VDI format by issuing the following VirutalBox command
+
+    `	$ VBoxManage convertfromraw --format VDI root.img root.vdi
+`
+
 
 ## Steps
 1. Launch VirtualBox
-2. ![image](https://www.dropbox.com/s/qbr9d1wlwbl2i3j/VB_linux_0_11_01.jpg?dl=0)
+2. Select - New
+![image](https://dl.dropboxusercontent.com/u/26460417/VB_linux_0_11_01.jpg)
+
 3. 
 
 
