@@ -42,7 +42,7 @@ I use Ubuntu as host computer to run Bochs, to modify and compile the Linux 0.11
 
     `$ dd bs=8192 if=Image of=/dev/fd0
 `
-6. Switch back to host computer. You will find the file **booting-0.11** has beed updated. Save it with a new name **boot.img**, with reasons  1. for clariy in naming; 2. VirtualBox requires .img as file name extension. 
+6. Switch back to host computer. You will find the file **bootimage-0.11** has beed updated. Save it with a new name **boot.img**, with reasons  1. for clariy in naming; 2. VirtualBox requires .img as file name extension. 
 
 ## Preparation on host running VirtualBox
 - download & install **VirtualBox**
