@@ -24,7 +24,7 @@ I use Ubuntu as host computer to run Bochs, to modify and compile the Linux 0.11
 2. Run **Bochs** and select the file **bochsrc-hd.bxrc** or   
 `   $ bochs -f bochsrc-hd.bxrc
 `
-3. You will be at the directory of /usr/root after boot from Linux 0.11. change directory to /usr/src/linux/kernel/blk_drv and modify **hd.c**, which you can find in subdirectory containing the modified **hd.c**
+3. You will be at the directory of /usr/root after boot from Linux 0.11. Change directory to /usr/src/linux/kernel/blk_drv and modify **hd.c**, which you can find in subdirectory containing the modified **hd.c**
  (reference: [https://virtuallyfun.superglobalmegacorp.com/2010/08/13/great-resource-for-ancient-linux/](https://virtuallyfun.superglobalmegacorp.com/2010/08/13/great-resource-for-ancient-linux/)) 
 4. Go back to the root directory of the source code, and compile  
 `    $ cd /usr/src/linux  
