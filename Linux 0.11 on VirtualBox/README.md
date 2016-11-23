@@ -61,9 +61,23 @@ I use Ubuntu as host computer to run Bochs, so I can modify and compile the Linu
 ## Steps
 1. Launch VirtualBox
 2. Select - New
-![image](https://dl.dropboxusercontent.com/u/26460417/VB_linux_0_11_01.jpg)
-
-3. 
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-1.png)
+3. 64MB memory is enough
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-2.png)
+4. Select boot.vdi created
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-3.png)
+5. Linux 0.11 on VirtualBox is created. Don't launch it yet. We need to add Floppy drive as the boot device first. Click the "Storage" 
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-4.png)
+6. Click the icon "Diamond with Plus sign"  and select "Add Floppy Controller". 
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-5.png)
+7. "Controller: Floppy" is added to the Storage tree. Click the icon "Floppy with Plus sign" to "Adds Floppy Drive"
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-6.png)
+8. Choose "Choose disk". And Select the file we created: boot.img (or bootimage-0.11.img)
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-7.png)
+9. The screen shows the file "boot.img" as the Floppy
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-8.png)
+10. After completion of the settings. Launch "Linux 0,11" on VirtualBox" 
+![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0.png)
 
 
 
