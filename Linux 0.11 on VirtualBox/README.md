@@ -7,8 +7,8 @@ The purpose is to get Linux 0.11 run under VirtualBox. It contains 2 files: boot
 I use Ubuntu as host computer to run Bochs, to modify and compile the Linux 0.11 source code, to get boot.img (original file name was bootimage-0.11). Together with root.vdi (converted from root.img, original file name was hdc-0.11.img) from zip file download, I run VirtualBox with what-just-compiled boot.img as virtual floppy drive, and root.vdi as virtual HDD drive. So I can do whatever I want to do with Linux 0.11 on VirtualBox. 
 
 ## Environment
-- **Ubuntu 14.04** (running Bochs with Linux 0.11 & source code)
-- **MacOS X El Captain** (running VirtualBox with Linux 0.11 & source code)
+- **Ubuntu 14.04 (running Bochs with Linux 0.11 & source code)**: I create virtual machines under my MacOS X for experiments. I choose arbitrarily a virtual machine running Ubuntu 14.04 to run Bochs. Bochs supports many other platforms which you can choose. 
+- **MacOS X El Captain (running VirtualBox with Linux 0.11 & source code)**: You may choose your preferred platform to run VirtualBox, not limited to MacOS.
 
 ## Prerequisite
 - **Bochs 2.6.8** - [http://bochs.sourceforge.net](http://bochs.sourceforge.net)
