@@ -62,9 +62,9 @@ I use Ubuntu as host computer to run Bochs, to modify and compile the Linux 0.11
 1. Launch VirtualBox (I use MacBook Pro, with OS X El Captain)
 2. Select - New. Choose whatever name you like. Select "Type - Linux", and "Version - Linux 2.2"
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-1.png)
-3. 64MB memory is enough
+3. 64MB memory is enough as minimum requirement. You can try with more memory. 
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-2.png)
-4. Select boot.vdi we created 
+4. Select root.vdi we convert from root.img (filename in zip download was hdc-0.11.img)
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-3.png)
 5. Linux 0.11 on VirtualBox is created. Don't launch it yet. We need to add Floppy drive as the boot device first. Click the "Storage" 
 ![image](https://dl.dropboxusercontent.com/u/26460417/VirtualBox_Linux_0-4.png)
