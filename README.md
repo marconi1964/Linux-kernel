@@ -1,5 +1,5 @@
-# Linux Kernel
-Collection of Linux kernel from internet, trying to contribute as far as I reach reach at the age of 50. The major reference site is
+# Linux kernel
+Collection of Linux kernel from internet, trying to contribute as far as I reach reach at the age of 50. The major reference sites are
 
 * http://oldlinux.org/
 * http://www.examw.com/linux/all/200572/    /* Linux 0.11 boot strap flow in Simplified Chinese */
