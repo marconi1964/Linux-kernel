@@ -67,7 +67,7 @@ In this section, I use '$' as prompt when you are at host, and '#' as prompt whe
 
 
 ## Steps
-Follow exactly the same steps as in Linux kernel 0.11 on VirtualBox
+Follow exactly the same steps as in Linux kernel 0.11 on VirtualBox, by applying names from **boot.img** to **boot-0.97.img**, and **root.img** to **root-0.97.img**
 
 
 
