@@ -32,7 +32,7 @@ If you follow the previous section of Linux kernel 0.97 on VirtualBox, you can g
 
 
 ## Steps
-(Check reference #1 in Chinese, with correction)
+(Check reference #1 in Chinese, with correction below)
 
 ### qemu
 
