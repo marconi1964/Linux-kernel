@@ -16,6 +16,6 @@ Linux 0.11 was released on 1991/12/8, which was the first functional version of 
 ### [Directory] : Linux 0.97 on VirtualBox
 Since it works with Linux 0.11 on VirtualBox, why not makes it work with Linux 0.97 especial when people think Linux 0.11 is too prelimiary from modern Linux environment. Linux 0.97 adds virtual file systems and network support, which was released on 1992/8/1.
 
-### [Directory] : Linux 0.97 on Qemu
-I am not familiar with Qemu. Try to replicate what people have done on running Linux 0.11 on Qemu. However, it seems that many of related documents (in Chinese) coming from the same source, making the same mistakes. So document it with correction to make sure it works properly.
+### [Directory] : Linux 0.97 on qemu
+I am not familiar with qemu. Try to replicate what people have done of running Linux 0.11 on qemu. However, it seems that many of searched Chinese documents coming from the same source, containing the same mistake. So document it with correction to make sure it works properly.
 
