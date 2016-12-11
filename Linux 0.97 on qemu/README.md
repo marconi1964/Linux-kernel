@@ -1,6 +1,6 @@
 # Linux kernel 0.97 on qemu
 
-I am not familiar with qemu. Try to replicate what people have done on running Linux 0.11 on qemu. However, it seems that many of related documents (in Chinese) coming from the same source, making the same mistakes. So document it with correction to make sure it works properly.
+I am not familiar with qemu. Try to replicate what people have done of running Linux 0.11 on qemu. However, it seems that many of searched Chinese documents coming from the same source, containing the same mistake. So document it with correction to make sure it works properly.
 
 If you follow the previous section of Linux kernel 0.97 on VirtualBox, you can go straight to **"Preparation on host running qemu"** section. 
 
