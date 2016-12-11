@@ -45,11 +45,11 @@ Run qemu to emulate the Linux 0.97 system with floppy disk from file: boot-0.97.
 
 Qemu emulation system is much more powerful with gdb (GNU Debugger). We run qemu with gdb enabled.
 
-1. `$ qemu-system-i386 -m 16 -boot a -fda Image -hda ./../rootfs/hdc-0.11-new.img -S -s`
+1. `$ qemu-system-i386 -m 16 -boot a -fda boot-0.97.img -hda root-0.97.img -S -s`
 
 OR
 
-1. `$ qemu-system-i386 -m 16 -boot a -fda Image -hda ./../rootfs/hdc-0.11-new.img -S -gdb tcp::1234`
+1. `$ qemu-system-i386 -m 16 -boot a -fda boot-0.97.img -hda root-0.97.img -S -gdb tcp::1234`
 
 
 See reference qemu document (reference #2)for more detail explanation  
@@ -60,7 +60,7 @@ Shorthand for -gdb tcp::1234, i.e. open a gdbserver on TCP port 1234 (see gdb_us
 
 You will get error message if you input as follows:  
 
-`$ qemu-system-i386 -m 16 -boot a -fda Image -hda ./../rootfs/hdc-0.11-new.img -S -s -gdb tcp::1234`  
+`$ qemu-system-i386 -m 16 -boot a -fda boot-0.97.img -hda root-0.97.img -S -s -gdb tcp::1234`  
 
 Once successfully launched, it will launch a new screen. The screen is black as it is STOPPED, and waiting for gdb to input the command to proceed.  
 
