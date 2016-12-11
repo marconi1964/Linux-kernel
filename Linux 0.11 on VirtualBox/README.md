@@ -1,6 +1,6 @@
 # Linux Kernel 0.11 on VirtualBox
 
-There are many documents about Linux 0.11 running on Bochs, Qemu. I saw no one doing it on VirtualBox, which I am more familiar with, than Bochs. It can be simple and straightforward, though still took me some time to get it right.
+There are many documents about the impmentation of Linux 0.11 running on Bochs, Qemu. I saw no one doing it on VirtualBox, which I am more familiar with, than Bochs. It can be simple and straightforward, though still took me some time to get it right.
 
 The purpose is to get Linux 0.11 run under VirtualBox. It contains 2 files: boot.img (as virtual floppy) and root.vdi (as virtual HDD).
 
