@@ -32,7 +32,7 @@ If you follow the previous section of Linux kernel 0.97 on VirtualBox, you can g
 
 
 ## Steps
-(Refer to the site mentioned below, with correction)
+(Check reference #1 in Chinese, with correction)
 
 ### qemu
 
@@ -52,7 +52,7 @@ OR
 1. `$ qemu-system-i386 -m 16 -boot a -fda Image -hda ./../rootfs/hdc-0.11-new.img -S -gdb tcp::1234`
 
 
-See reference qemu document for more detail explanation  
+See reference qemu document (reference #2)for more detail explanation  
 
 -s  
 
@@ -77,9 +77,9 @@ Once successfully launched, it will launch a new screen. The screen is black as 
 
 
 ## Reference
-[https://wwssllabcd.github.io/blog/2012/08/03/compile-linux011/](https://wwssllabcd.github.io/blog/2012/08/03/compile-linux011/)
+1. [https://wwssllabcd.github.io/blog/2012/08/03/compile-linux011/](https://wwssllabcd.github.io/blog/2012/08/03/compile-linux011/)
 
-[qemu document - gdb usage](http://wiki.qemu.org/download/qemu-doc.html#gdb_005fusage)
+2. [qemu document - gdb usage](http://wiki.qemu.org/download/qemu-doc.html#gdb_005fusage)
 
 
 
