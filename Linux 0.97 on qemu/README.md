@@ -58,7 +58,7 @@ See reference qemu document (reference #2) for more detail explanation
 
 Shorthand for -gdb tcp::1234, i.e. open a gdbserver on TCP port 1234 (see gdb_usage).  
 
-You will get error message if you input as follows, as it is duplicated to have both -s and -gdb options:  
+You will get error message if you input as follows, as it is duplicated to have both -s and -gdb options (which contains this error in original site of reference):  
 
 `$ qemu-system-i386 -m 16 -boot a -fda boot-0.97.img -hda root-0.97.img -S -s -gdb tcp::1234`  
 
@@ -70,6 +70,9 @@ Once successfully launched, it will launch a new screen. The screen is black as 
 `$ gdb`  
 3. `(gdb) target remote localhost:1234`  
 4. `(gdb) c`  
+
+The command 'c' in (gdb) means 'continue'
+
 
 ![image](https://dl.dropboxusercontent.com/u/26460417/qemu_gdb_running.png)
 5. It works, and you may still interrupt with gdb command as you wish
