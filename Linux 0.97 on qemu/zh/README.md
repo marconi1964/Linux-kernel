@@ -63,7 +63,7 @@ Qemu 模擬系統 (qemu emulation system) 結合 gdb (GNU Debugger) 後更強大
 
 成功執行後, 系統會冒出一個新的螢幕, 一開始是全黑, 等著 gdb 接受鍵盤指令.
 
-2. 打開新的 terminal 執行 gdb
+打開新的 terminal 執行 gdb
 
 `$ gdb`<br> 3. `(gdb) target remote localhost:1234`<br> 4. `(gdb) c`
 
